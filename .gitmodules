@@ -1,3 +1,6 @@
 [submodule "analogVLSI"]
 	path = analogVLSI
 	url = https://github.com/KremerMichael/analogVLSI.git
+[submodule "energyStore"]
+	path = energyStore
+	url = https://github.com/BostonUniversitySeniorDesign/energyStore.git
