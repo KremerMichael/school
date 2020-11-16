@@ -4,3 +4,6 @@
 [submodule "energyStore"]
 	path = energyStore
 	url = https://github.com/BostonUniversitySeniorDesign/energyStore.git
+[submodule "21-08-energyStore"]
+	path = 21-08-energyStore
+	url = ./21-08-energyStore/
